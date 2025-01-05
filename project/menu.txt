@@ -1,0 +1,6 @@
+momo 150
+pizza 300
+burger 200
+anushilan 300
+kewal 200
+nabu 500

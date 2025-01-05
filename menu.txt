@@ -1,0 +1,4 @@
+momo 300
+sprite 500
+burger 400
+chwmin 250
